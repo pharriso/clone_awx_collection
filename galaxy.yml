@@ -4,3 +4,4 @@ version: "17.0.1"
 description: "Clone of awx.awx"
 authors: ["awx"]
 license: ["MIT"]
+repository: "https://github.com/pharriso/clone_awx_collection"
