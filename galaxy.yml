@@ -1,0 +1,6 @@
+namespace: "awx"
+name: "awx"
+version: "17.0.1"
+description: "Clone of awx.awx"
+authors: ["awx"]
+license: ["MIT"]
